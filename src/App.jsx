@@ -13,6 +13,8 @@ export default function App() {
   return (
     <div>
 
+      <h2>Another clicker... with React!</h2>
+
       <button onClick={() => {
         // Button increments value by 1
         setCount(count + 1)
